@@ -23,7 +23,7 @@
 - Buscar um personagem, episódio ou localização pelo nome.
 - Exibir informações mínimas sobre os personagens, episódios e localizações conforme protótipo.
 - Tema claro e tema escuro
-- Permitir ao usuário salvar um personagem, episódio ouu localização na lista de favoritos.
+- Permitir ao usuário salvar um personagem, episódio ou localização na lista de favoritos.
 - Visualizar a lista de personagens favoritos.
 - Remover personagens, episódios e localizações da lista de favoritos.
 
