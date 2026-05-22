@@ -8,7 +8,7 @@
 
 
 ### Layout
-- Seguir o protótipo disponível no [Figma](https://www.figma.com/design/gZHT6CBaqetxWzC0sQzxLL/Rick-and-Morty--Community-).
+- Seguir o protótipo disponível no [Figma](https://www.figma.com/design/gZHT6CBaqetxWzC0sQzxLL/Rick-and-Morty--Community-?node-id=0-1&p=f&t=46VePcZNgIg5qf00-0).
 
  ### API
  - Na aplicação, será utilizada a API pública [rickandmortyapi](https://rickandmortyapi.com/documentation/#introduction) para o consumo das requisições dos personagens episódios e locais, deve ser utilizado a abordagem REST.
